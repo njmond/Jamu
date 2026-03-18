@@ -1,0 +1,18 @@
+{
+  "settings": {
+    "compute_capability": "CPU",
+    "max_vcus": 1000,
+    "mining_interval_ms": 2000,
+    "max_consecutive_failures": 10,
+    "retry_delay_ms": 5000
+  },
+  "accounts": [
+    {
+      "id": "yoyok1",
+      "wallet": "0x7B29C952877E990b6e0BaACf1C759F83DeC48ae5",
+      "private_key": null,
+      "enabled": true,
+      "max_vcus_override": null
+    }
+  ]
+}
